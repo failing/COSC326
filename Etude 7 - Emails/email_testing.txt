@@ -1,0 +1,14 @@
+a@a_dot_dot_b.cs.com
+adsasadsadsad@sdsadasd.com
+sdasd@d_ddd.com
+jen@[192_dot_168_dot_178_dot_1]
+jen@[192_dot_168_dot_178_dot_1].com
+jen@[192_dot_168_dot_178_dot_1]@[192.178.143.22]
+jen@[192_dot_16a_dot_178_dot_11222]
+lau@[123.123.11.2]
+a@a_dot_b_dot_c.cs.com
+shoot^box@gmail.com
+nice_dot_dot_domain_at_cs_dot_com
+this_dot__dot_is@broken.com
+andrew_dot_trotman_at_me_at_c_dot_com
+a@a_dot_a_dot_dot_a_dot_dot_b.cs.com

@@ -1,0 +1,16 @@
+Bradley Carter 8277205
+
+Program for the Etude 3.
+
+Biggest Loop: [14316, 19116, 31704, 47616, 83328, 177792, 295488, 629072, 589786, 294896, 358336, 418904, 366556, 274924, 275444, 243760, 376736, 381028, 285778, 152990, 122410, 97946, 48976, 45946, 22976, 22744, 19916, 17716, 14316]
+
+Biggest Loop Count: 29 (28 not including the last number)
+
+
+Compile using:
+    javac Etude3.java
+Run using:
+    java Etude3
+
+
+

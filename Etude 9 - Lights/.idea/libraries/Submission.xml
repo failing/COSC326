@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Submission">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Submission/gs-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Submission/gs-ui-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Submission/Submission.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
